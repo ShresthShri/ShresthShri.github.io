@@ -48,7 +48,7 @@ a:hover {
 .overlay-photo {
     position: absolute;
     top: 20px;
-    right: 20px;
+    right: 60px;
     z-index: 2;
 }
 
